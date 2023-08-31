@@ -1,2 +1,2 @@
 # demo-webpage1
-JS used first time.
+Bootstrap used first time.
